@@ -35,6 +35,12 @@ a {
   text-decoration: none;
 }
 
+table, th, td {
+  border: 1px solid;
+}
+
+
+
 @media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;
